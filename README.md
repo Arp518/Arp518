@@ -15,6 +15,7 @@ interests: [AI/ML, Generative AI, RAG, Cybersecurity, Blockchain, Sustainable Te
 - [NEO — AI Therapist](https://github.com/Arp518/AI_Therapist) — Gen-Z–friendly AI mental wellness companion with real-time voice and text sessions over WebSockets, Whisper speech-to-text, text-to-speech, session storage and sentiment-driven responses.
 - [Biodiversity Intelligence AI](https://github.com/Arp518/biodiversity-intelligence-ai) — AI-powered biodiversity intelligence chatbot using RAG, environmental datasets and multi-variable reasoning to give evidence-backed insights and recommendations.
 - [Client-Side Prompt Privacy](https://github.com/Arp518/client-side-prompt-privacy) — Client-side privacy framework that detects sensitive information in Generative AI prompts, replaces it with reversible tokens, stores the originals locally, and restores them in the AI response.
+- [Heart Disease Risk Prediction](https://github.com/Arp518/Heart-Disease-Risk-Prediction) — AI/ML healthcare project that predicts heart disease risk from patient health data, with a trained model and an app that serves its predictions.
 - CyberBuddy — RAG-based AI cyber law assistant built on the Gemini API with a retrieval layer over 6 authoritative cyber law and cybersecurity documents, grounding answers on cybercrime reporting, online safety and prevention.
 
 ## Experience
