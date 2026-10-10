@@ -12,11 +12,12 @@ interests: [AI/ML, Generative AI, RAG, Cybersecurity, Blockchain, Sustainable Te
 
 ## Projects
 
-- [Carbon Unity](https://github.com/ayushhirlekar/carbon_unity) — Decentralised carbon credit marketplace where farmers tokenize and trade credits with buyers, with Ethereum smart contracts and MetaMask authentication giving 100% on-chain traceability of issuance, transfers and retirement.
 - [Biodiversity Intelligence AI](https://github.com/Arp518/biodiversity-intelligence-ai) — AI-powered biodiversity intelligence chatbot using RAG, environmental datasets and multi-variable reasoning to give evidence-backed insights and recommendations.
 - [Client-Side Prompt Privacy](https://github.com/Arp518/client-side-prompt-privacy) — Client-side privacy framework that detects sensitive information in Generative AI prompts, replaces it with reversible tokens, stores the originals locally, and restores them in the AI response.
-- NEO — AI Therapist — AI-powered mental wellness companion with context-aware voice and text conversations, speech processing (Whisper) and sentiment-driven response generation.
+- [Carbon Unity](https://github.com/ayushhirlekar/carbon_unity) — Decentralised carbon credit marketplace where farmers tokenize and trade credits with buyers, with Ethereum smart contracts and MetaMask authentication giving 100% on-chain traceability of issuance, transfers and retirement.
+- [NEO — AI Therapist](https://github.com/Arp518/AI_Therapist) — Gen-Z–friendly AI mental wellness companion with real-time voice and text sessions over WebSockets, Whisper speech-to-text, text-to-speech, session storage and sentiment-driven responses.
 - CyberBuddy — RAG-based AI cyber law assistant built on the Gemini API with a retrieval layer over 6 authoritative cyber law and cybersecurity documents, grounding answers on cybercrime reporting, online safety and prevention.
+- Voice-to-Sign (ISL) with LLM — Accessibility-focused solution using LLMs and RAG to convert speech into Indian Sign Language.
 
 ## Experience
 
@@ -26,6 +27,8 @@ interests: [AI/ML, Generative AI, RAG, Cybersecurity, Blockchain, Sustainable Te
 
 ## Leadership
 
-· Curation Head, TEDx SIES GST · Head, Literary Team · Jr. Creative Co-ord, CSI (Cyber Secured India) ·
+- Curation Head, TEDx SIES GST — Jul 2025–May 2026. Managed speaker relations, content curation and event-day coordination.
+- Head, Literary Team — Jul 2025–May 2026. Led the team by delegating responsibilities, coordinating activities and delivering literary initiatives.
+- Jr. Creative Co-ordinator, CSI (Cyber Secured India) — Jul 2024–May 2025. Worked with multidisciplinary teams on event experiences through creative planning, execution and resource management.
 
 [LinkedIn](https://www.linkedin.com/in/arpita-chavan-7241622b8/) · arpitachavan766@gmail.com
