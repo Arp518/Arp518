@@ -17,7 +17,6 @@ interests: [AI/ML, Generative AI, RAG, Cybersecurity, Blockchain, Sustainable Te
 - [Carbon Unity](https://github.com/ayushhirlekar/carbon_unity) — Decentralised carbon credit marketplace where farmers tokenize and trade credits with buyers, with Ethereum smart contracts and MetaMask authentication giving 100% on-chain traceability of issuance, transfers and retirement.
 - [NEO — AI Therapist](https://github.com/Arp518/AI_Therapist) — Gen-Z–friendly AI mental wellness companion with real-time voice and text sessions over WebSockets, Whisper speech-to-text, text-to-speech, session storage and sentiment-driven responses.
 - CyberBuddy — RAG-based AI cyber law assistant built on the Gemini API with a retrieval layer over 6 authoritative cyber law and cybersecurity documents, grounding answers on cybercrime reporting, online safety and prevention.
-- Voice-to-Sign (ISL) with LLM — Accessibility-focused solution using LLMs and RAG to convert speech into Indian Sign Language.
 
 ## Experience
 
