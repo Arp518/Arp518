@@ -7,7 +7,7 @@ interests: [AI/ML, Generative AI, RAG, Cybersecurity, Blockchain, Sustainable Te
 ```
 
 <p>
-  <img src="https://skillicons.dev/icons?i=py,js,html,react,nodejs,express,flask,sqlite,supabase,solidity,git,github,figma,netlify" />
+ <img src="https://skillicons.dev/icons?i=py,js,html,css,react,nodejs,express,flask,sqlite,supabase,solidity,jupyter,pytorch,git,github,figma,netlify,vscode" alt="Skills" />
 </p>
 
 ## Projects
